@@ -1,4 +1,4 @@
-## 0.20.1485-1 (02-08-2022)
+## 0.20.1485-2 (02-08-2022)
 - Fix Permissions on /config and /share directories
 
 ## 0.20.1485 (30-07-2022)
