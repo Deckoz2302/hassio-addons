@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -d /share/jackett ]; then
+if [ ! -d /share/Jackett ]; then
     echo "Creating /share/Jackett"
     mkdir /share/Jackett
     chown -R abc:abc /share/Jackett
