@@ -42,7 +42,7 @@
     "networkdisks": "str?"
   },
   "slug": "jackett_nas",
-  "url": "https://github.com/alexbelgium/hassio-addons/tree/master/jackett",
+  "url": "https://github.com/Deckoz2302/hassio-addons/tree/master/jackett",
   "version": "0.20.1485",
   "webui": "http://[HOST]:[PORT:9117]"
 }
