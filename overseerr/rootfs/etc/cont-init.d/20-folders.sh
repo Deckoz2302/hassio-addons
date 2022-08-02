@@ -10,5 +10,5 @@ if [ ! -d /config/.cache/yarn ]; then
     mkdir /config/.cache/yarn
 fi
 
-chown -R overseerr:overseerr /config/addons_config/overseerr
-chown -R overseerr:overseerr /config/.cache/yarn
+chown -R abc:abc /config/addons_config/overseerr
+chown -R abc:abc /config/.cache/yarn
