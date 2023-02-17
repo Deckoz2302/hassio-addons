@@ -2,6 +2,7 @@
 - Ingress addition
 - BaseUrl definition to "sonarr"
 - WARNING : update to supervisor 2022.11 before installing
+- Update Ingress Icon
 
 ## 3.0.9.1549 (09-08-2022)
 
