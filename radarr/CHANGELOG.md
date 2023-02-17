@@ -1,6 +1,7 @@
 - Add ingress_disabled option
 - Ingress addition
 - BaseUrl definition to "radarr"
+- Update Ingress Icon
 
 ## 4.3.2.6857 (07-01-2023)
 
